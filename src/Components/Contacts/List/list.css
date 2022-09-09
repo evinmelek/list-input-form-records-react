@@ -1,0 +1,14 @@
+ul{
+    list-style-type: none;
+    height: auto;
+    width: auto; 
+    text-align: center; 
+}
+li{
+    color: white;
+    font-style: italic;
+    padding: 3%;
+    float: left;
+    border: 1px solid coral;
+    width: 80%;
+}
